@@ -1,3 +1,3 @@
 # Labb_mineSweeper
 
-# run and enjoj the game!
+# Run and enjoj the game!
